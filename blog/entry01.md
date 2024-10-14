@@ -7,7 +7,7 @@ I have been fascinated with buildings and different style of buildings for a lon
 
 Getting comfortable using this type of code to build floor plans was going to take a lot of time and tinkering and I needed to be patient in this process. 
 
-<p> When searching for resources to create my project I was coming </p>
+<p> When searching for resources to create my project I was having a hard time finding free websites to create a floor plan. One website I found that was helpful was <a href="[url](floorplanner.com)">Free Code Camp</a> floorplanner.com </p>
 
 
 
