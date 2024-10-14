@@ -10,6 +10,8 @@ Getting comfortable using this type of code to build floor plans was going to ta
 
 My goal is to create a building using code floor by floor. I am hoping that the first floor can look something like this.
 
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+
 
 
 [Next](entry02.md)
