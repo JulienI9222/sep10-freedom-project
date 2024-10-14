@@ -10,7 +10,7 @@ Getting comfortable using this type of code to build floor plans was going to ta
 
 My goal is to create a building using code floor by floor. I am hoping that the first floor can look something like this.
 
-<img src="floor plan example.png" alt="Floor Plan">
+<img src="[floor plan example.png](https://github.com/JulienI9222/sep10-freedom-project/blob/main/floor%20plan%20example.png)" alt="Floor Plan">
 
 
 
