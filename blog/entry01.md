@@ -14,9 +14,24 @@ My goal is to create a building using code floor by floor. I am hoping that the 
 
 To start I had to use what I know how to do which is pretty basic. 
 
-<div class="box">
-  This is a box!
-</div>
+.box {
+  height: 20px;
+  width: 20px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
 
 
 [Next](entry02.md)
