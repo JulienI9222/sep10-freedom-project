@@ -12,7 +12,11 @@ My goal is to create a building using code floor by floor. I am hoping that the 
  
 <img src="floor plan example.png" alt="Floor Plan">
 
+To start I had to use what I know how to do which is pretty basic. 
 
+<div class="box">
+  This is a box!
+</div>
 
 
 [Next](entry02.md)
