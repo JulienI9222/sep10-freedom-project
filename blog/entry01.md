@@ -14,6 +14,7 @@ My goal is to create a building using code floor by floor. I am hoping that the 
 
 To start I had to use what I know how to do which is pretty basic. 
 
+<div id="rectangle"></div>
 
 
 [Next](entry02.md)
