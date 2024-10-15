@@ -12,15 +12,6 @@ My goal is to create a building using code floor by floor. I am hoping that the 
  
 <img src="floor plan example.png" alt="Floor Plan">
 
-To start I had to use what I know how to do which is pretty basic. 
-
-div {
-  width: 500px;
-  height: 200px;
-  border: 10px solid #2196F3;
-  background-color: #f7f7f7;
-}
-
 
 [Next](entry02.md)
 
