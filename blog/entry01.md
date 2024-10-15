@@ -9,8 +9,9 @@ Getting comfortable using this type of code to build floor plans was going to ta
 <p> When searching for resources to create my project I was having a hard time finding free websites to create a floor plan. One website I found that was helpful was <a href="[url](floorplanner.com)">floorplanner.com</a>  </p>
 
 My goal is to create a building using code floor by floor. I am hoping that the first floor can look something like this.
+ 
 
-<img src="[floor plan example.png](https://github.com/JulienI9222/sep10-freedom-project/blob/main/floor%20plan%20example.png)" alt="Floor Plan">
+<img src="[[floor plan example.png](https://github.com/JulienI9222/sep10-freedom-project/blob/main/floor%20plan%20example.png](https://github.com/JulienI9222/JulienI9222.github.io/blob/main/img/floor%20plan%20example.png))" alt="Floor Plan"
 
 
 
