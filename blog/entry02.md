@@ -11,7 +11,7 @@ Right now, I’m still in the research phase of the design process. I’m focuse
 
 
 ## Skills
-The first skill I am learning is how to search for articles online. I am learning to use specific keywords and what are the best sites to use. When searching on Google, I noticed I have to be specific in my search. If not, I get a lot of articles like Wikipedia which does not help me. I am also learning what are the best industry magazines to read are. I am organzing my findings by bookmarking useful articles. This will build a solid base of research for my projects.
+The first skill I am learning is how to search for articles online. I am learning to use specific keywords and what are the best sites to use. When searching on Google, I noticed I have to be specific in my search. If not, I get a lot of articles like Wikipedia which does not help me. I am also learning what are the best industry magazines to read are. I am organizing my findings by bookmarking useful articles. This will build a solid base of research for my projects.
 
 I am also learning time management. I have to spend at least an hour for research a few times a week. I’ve started breaking my tasks into smaller steps, like reading one article at a time so I can understand what I am reading. 
 
