@@ -1,7 +1,7 @@
 # Entry 3
 ##### 12/20/2024
 
-## Why I love Architecture Designs?
+## Why do I love Architecture Designs?
 
 Architectural requirements are those requirements that have a measurable effect on the computer system’s architecture. This can comprise both software and hardware requirements. They are a subset requirements, the subset of architecture system in identifiable ways.
 During my research, I came across several architectural websites that were filled with so many amazing designs and technology on how to build the most magnificant structures, that can stand in place for centuries like the <a href= "https://en.wikipedia.org/wiki/Colosseum">The Colosseum</a> The Colosseum is epic and was built as part of an imperial effort to revitalize Rome after the tumultuous year of the four emperors, 69 CE. As with other amphitheatres, the emperor Vespasian intended the Colosseum to be an entertainment venue, hosting gladiator fights, animal hunts, and even mock naval battles. As I mentioned in my last blog [entry02.md ](https://github.com/JulienI9222/sep10-freedom-project/edit/main/blog/entry02.md) Architectural has been the foundation of unbelievable structures that has taken techology and designs to highest level of excellence. <a href= "https://www.buildings.com/architecture/article/33037352/7-technological-innovations-shaping-the-future-of-architecture-engineering-and-construction-in-2024">
